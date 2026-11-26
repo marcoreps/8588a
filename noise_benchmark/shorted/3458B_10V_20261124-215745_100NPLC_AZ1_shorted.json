@@ -1,0 +1,15 @@
+{
+  "commands": [
+    "RESET",
+    "PRESET NORM",
+    "END ALWAYS",
+    "OFORMAT ASCII",
+    "DCV 10",
+    "FIXEDZ OFF",
+    "NPLC 100",
+    "AZERO 1",
+    "DISP OFF",
+    "TIMER 5",
+    "NRDGS 6480,TIMER"
+  ]
+}

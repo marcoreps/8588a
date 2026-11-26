@@ -1,0 +1,68 @@
+{
+  "queries": [
+    {
+      "command": "ID?",
+      "response": "HP3458A"
+    },
+    {
+      "command": "REV?",
+      "response": "9,2"
+    },
+    {
+      "command": "TEMP?",
+      "response": "51.3"
+    },
+    {
+      "command": "LINE?",
+      "response": "50.0051279E+00"
+    },
+    {
+      "command": "ERR?",
+      "response": "0"
+    },
+    {
+      "command": "RANGE?",
+      "response": "10"
+    },
+    {
+      "command": "LFREQ?",
+      "response": "50.0000000E+00"
+    },
+    {
+      "command": "NPLC?",
+      "response": "1.00000000E+00"
+    },
+    {
+      "command": "APER?",
+      "response": "20.0000000E-03"
+    },
+    {
+      "command": "AZERO?",
+      "response": "1"
+    },
+    {
+      "command": "FIXEDZ?",
+      "response": "0"
+    },
+    {
+      "command": "TIMER?",
+      "response": "50.0000000E-03"
+    },
+    {
+      "command": "NRDGS?",
+      "response": "216000, 6"
+    },
+    {
+      "command": "ERR?",
+      "response": "0"
+    },
+    {
+      "command": "ERR?",
+      "response": "0"
+    },
+    {
+      "command": "TEMP?",
+      "response": "51.4"
+    }
+  ]
+}
