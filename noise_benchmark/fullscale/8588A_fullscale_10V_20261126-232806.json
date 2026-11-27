@@ -1,0 +1,32 @@
+{
+  "firmware": "1.35",
+  "commands": [
+    "ABOR",
+    "*CLS",
+    "*RST",
+    "CONF:VOLT:DC 10",
+    "ROUT:TERM FRONT",
+    "SENS:VOLT:DC:RANG:AUTO OFF",
+    "SENS:VOLT:DC:IMP AUTO",
+    "SENS:VOLT:DC:RES MIN",
+    "SENS:VOLT:DC:APER:MODE MAN",
+    "SENS:VOLT:DC:NPLC 100",
+    "CALC:AVER:STAT OFF",
+    "CALC:MATH:STAT OFF",
+    "FORM ASCII",
+    "SYST:TIME:TIM ON",
+    "TRIG:RES",
+    "INIT:CONT OFF",
+    "ARM:LAY2:SOUR IMM",
+    "ARM:LAY2:COUN 1",
+    "ARM:LAY1:SOUR IMM",
+    "ARM:LAY1:COUN 1",
+    "TRIG:DEL:AUTO OFF",
+    "TRIG:DEL 0",
+    "TRIG:HOLD:AUTO ON",
+    "TRIG:SOUR TIM",
+    "TRIG:COUN 6480",
+    "TRIG:TIM 5",
+    "INIT"
+  ]
+}

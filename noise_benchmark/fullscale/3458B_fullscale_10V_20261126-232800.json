@@ -1,0 +1,19 @@
+{
+  "firmware": "9,2",
+  "commands": [
+    "RESET",
+    "PRESET NORM",
+    "END ALWAYS",
+    "OFORMAT ASCII",
+    "TRIG HOLD",
+    "DCV 10",
+    "FIXEDZ OFF",
+    "LFREQ 50",
+    "NPLC 1",
+    "AZERO 1",
+    "DISP OFF",
+    "TIMER 0.05",
+    "NRDGS 648000,TIMER",
+    "TRIG SYN"
+  ]
+}
